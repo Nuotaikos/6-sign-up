@@ -1,0 +1,18 @@
+.btn {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    border-color: #00f;
+    background: #144DD9;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, #264BD2 0%, #264BD2 100%);
+    color: #fff;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #36f;
+    background: linear-gradient(90deg, #264BD2 0%, #264BD2 100%);
+}
